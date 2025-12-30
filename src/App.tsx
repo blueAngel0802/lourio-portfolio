@@ -292,9 +292,6 @@ groups={[
               <ProjectCard key={p.title} p={p as any} />
             ))}
           </div>
-          <div className="muted small" style={{marginTop: 12}}>
-            Want concrete links (GitHub, demos, case studies)? Add them in <span className="kbd">src/content/profile.json</span>.
-          </div>
         </div>
       </section>
 
@@ -320,10 +317,6 @@ groups={[
                   <a className="accent small" style={{marginTop: 6, display:"inline-block"}} href={profile.contact.linkedin} target="_blank" rel="noreferrer">
                     {profile.contact.linkedin}
                   </a>
-                </div>
-                <div className="muted small" style={{lineHeight: 1.7}}>
-                  This is a single‑page React site styled to match the look & layout shown in the Boris portfolio video:
-                  dark slate background, teal accents, card + glow sections, floating theme toggle, and smooth scrolling.
                 </div>
               </div>
             </div>

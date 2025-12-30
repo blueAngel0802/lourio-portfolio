@@ -39,7 +39,7 @@ export default function ProjectCard({ p }: { p: Project }) {
           ))}
         </div>
       ) : (
-        <div className="muted small">Links available on request.</div>
+        <div className="btn small">Links to</div>
       )}
     </div>
   );
