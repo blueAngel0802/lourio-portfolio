@@ -107,9 +107,6 @@ export default function App() {
                 <a className="btn" href={`mailto:${profile.contact.email}`}>Email</a>
               </div>
 
-              <div className="muted small" style={{marginTop: 14}}>
-                Tip: use <span className="kbd">Home</span>/<span className="kbd">End</span> or navbar to jump sections.
-              </div>
             </div>
 
             <div style={{display:"grid", placeItems:"center"}}>
