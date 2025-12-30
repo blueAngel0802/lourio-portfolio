@@ -1,0 +1,181 @@
+{
+  "name": "Lou Rio King",
+  "tagline": "Senior Full‑Stack Engineer • Distributed Systems • React/Node/AWS",
+  "contact": {
+    "phone": "+1 703 665 7906",
+    "email": "louis.king116@outlook.com",
+    "linkedin": "https://www.linkedin.com/in/lou-rio-king-2311883a0"
+  },
+  "summary": "Experienced Senior Full‑Stack Engineer with 10+ years in software development. Known for delivering high‑quality, reliable, and scalable software solutions, with strong experience in web applications, event‑driven architectures, and cloud platforms.",
+  "education": [
+    {
+      "school": "Southern Utah University",
+      "degree": "B.S. Computer Science",
+      "dates": "04/2013 – 08/2016"
+    }
+  ],
+  "skills": {
+    "Languages": [
+      "C/C++",
+      "Java",
+      "C#",
+      "Ruby",
+      "TypeScript",
+      "JavaScript",
+      "Node.js",
+      "Golang",
+      "PHP",
+      "Python"
+    ],
+    "Frontend": [
+      "React",
+      "TypeScript",
+      "JavaScript",
+      "HTML/CSS"
+    ],
+    "Backend": [
+      ".NET Core",
+      "ASP.NET",
+      "MVC",
+      "Web API",
+      "Node.js",
+      "Laravel",
+      "Ruby on Rails"
+    ],
+    "Testing": [
+      "Jest",
+      "Cypress",
+      "Mocha",
+      "Chai",
+      "RTL",
+      "Go‑Testify"
+    ],
+    "Cloud/DevOps": [
+      "AWS (SNS/SQS, CloudWatch, Lambda)",
+      "GCP",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Datadog"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "DynamoDB",
+      "Firebase"
+    ],
+    "Tools": [
+      "Git",
+      "Jira",
+      "Confluence",
+      "Jenkins",
+      "Docker",
+      "Kubernetes"
+    ],
+    "Strengths": [
+      "Deep ownership",
+      "Strong communication",
+      "Product mindset",
+      "Fast learning",
+      "Autonomous execution"
+    ]
+  },
+  "experience": [
+    {
+      "company": "McKinsey & Company",
+      "role": "Senior Software Engineer",
+      "dates": "01/2022 – 08/2025",
+      "highlights": [
+        "Led development of scalable web applications using React, Node.js, Ruby on Rails, and AWS.",
+        "Architected distributed systems using event‑driven patterns and complex API workflows.",
+        "Built cloud‑based, scalable architectures with AWS SNS/SQS, CloudWatch, and Lambda.",
+        "Implemented unit + integration testing to keep code clean, testable, and reliable.",
+        "Partnered with cross‑functional teams to shape features and ship high‑quality releases."
+      ]
+    },
+    {
+      "company": "Vidmob",
+      "role": "Senior Full‑Stack Engineer",
+      "dates": "01/2018 – 12/2021",
+      "highlights": [
+        "Built and maintained high‑performance front‑end systems with React + TypeScript.",
+        "Spearheaded CI/CD pipeline automation to reduce deployment time and improve productivity.",
+        "Developed internal APIs with scalable, maintainable architecture practices.",
+        "Improved performance through database query optimization (PostgreSQL/MongoDB)."
+      ]
+    },
+    {
+      "company": "Amitree",
+      "role": "Software Engineer",
+      "dates": "06/2015 – 12/2017",
+      "highlights": [
+        "Delivered user‑facing features with JavaScript, Ember.js, Ruby on Rails, and PostgreSQL.",
+        "Led testing initiatives for a mission‑critical real‑estate platform.",
+        "Collaborated with product + design to ship polished, user‑focused experiences.",
+        "Improved developer workflow and reduced defects across the stack."
+      ]
+    },
+    {
+      "company": "Easy On Hold",
+      "role": "Software Engineer",
+      "dates": "02/2014 – 06/2015",
+      "highlights": [
+        "Built responsive interfaces with HTML/CSS/JavaScript in close collaboration with design.",
+        "Enhanced interactivity with jQuery to improve UX.",
+        "Developed a custom CMS using PHP + MySQL for content and user management.",
+        "Integrated third‑party APIs (e.g., Stripe/PayPal) for payments and authentication."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Event‑Driven API Platform (AWS SNS/SQS)",
+      "subtitle": "Distributed systems • Reliability • Scale",
+      "tags": [
+        "AWS",
+        "SNS/SQS",
+        "Lambda",
+        "CloudWatch",
+        "Node.js"
+      ],
+      "description": "Designed event‑driven workflows to orchestrate complex API integrations, focusing on throughput, observability, and fault‑tolerance.",
+      "links": []
+    },
+    {
+      "title": "CI/CD Automation & Release Tooling",
+      "subtitle": "Deployment speed • Quality gates",
+      "tags": [
+        "CI/CD",
+        "Jenkins",
+        "Docker",
+        "Testing"
+      ],
+      "description": "Automated build/test/deploy pipelines to shorten release cycles while enforcing test and quality checks for safer production pushes.",
+      "links": []
+    },
+    {
+      "title": "High‑Performance Frontend System",
+      "subtitle": "React + TypeScript • UX performance",
+      "tags": [
+        "React",
+        "TypeScript",
+        "Performance"
+      ],
+      "description": "Built and optimized frontend features for responsiveness and maintainability, using modern React patterns and robust testing.",
+      "links": []
+    },
+    {
+      "title": "Custom CMS + Payments Integration",
+      "subtitle": "PHP/MySQL • Stripe/PayPal",
+      "tags": [
+        "PHP",
+        "MySQL",
+        "Stripe",
+        "PayPal"
+      ],
+      "description": "Delivered a CMS for client content management and integrated payment + auth flows with third‑party APIs.",
+      "links": []
+    }
+  ]
+}
